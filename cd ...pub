@@ -1,0 +1,13 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCtilx4go/WICI1vTNQx3bjIkwiQVe18sKJEDm7LJ5Yb/veAJQ/XaFp7MeLTQM3crVPOk+6I19OEEhL8cdHHmlYQpOh56wOszjJCMi+QsD3BwQ+UNSfOl5apycOBH8ibENiM7E5T9SHChcQyfZXJWDBHiGQxRREntUMYCZE+ZQu6pRAORJLjSNiuoAVGB37gqS4kxG9Xvu+56AErnVHJ2xQHJW/SsYkzgl1n5eJgYIC+vglpPLrTaad6Q7lMjO+MTmBQxVOVuZy+aZTxsbtPyaowVs+80yyCzVUIU9hzC9SUuumt03Adr7VjiaoAGpvsOdcaXxYfH+jrgGaVxxPHXk7OBJx5hdQJkB/mlxCXmE/C9QoYyM/RrcQUVH601a+nXUshXVelpIEGkXC6eL+I6+tcAchnvAZx/aser0QpUtWCM0b2rcllb3CJ1zkiZ6ctxQRTQcnA1zD+GoUjnyOrohUhdyF+1VqR/SyRRbbjX+cXYu4GjXpy5BHG9w2r5BgXN4Ng/7ujhEFzveJiGW8/ULCf96rYfAOxtvaMUBM55U60B0l0nz2FiXBJK6o/h70yO92ftEvU7whOEbsMPSk7u1mRWUSD7i9HO19ZIRRzDDEmzNx/xxh4EcQJweUkDJdrdXH8rK+pK4EcwG8aFzMazjtEDmhxV1h48Knk63G8jn02w== guscurcio@outlook.com
+cd ..
+cd ..
+ssh -T git@github.com
+cd ..
+cd .
+cd desktop/pinteresting/
+cd ..
+cd ..
+cd...
+cd..
+cd ..
+-t rsa -b 4096 -C guscurcio@outlook.com
